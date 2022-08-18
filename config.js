@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['918595086860','918750976989']
+global.OwnerNumber = ['918595086860','918750976989']
+global.ownertag = ['918595086860','918750976989']
+global.BotName = "Mickey"
+global.packname = "Mickey bot"
+global.author = "By: Mickey"
+global.OwnerName = "Mickey"
+global.BotSourceCode = "https://wa.me/+919015286428"
+global.SupportGroupLink = "https://instagram.com/_g.a.p.p.u_"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "Delhi, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
